@@ -22,3 +22,4 @@ class Student
     @@all 
   end
 end
+end
