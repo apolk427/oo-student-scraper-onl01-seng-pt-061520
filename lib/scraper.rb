@@ -42,6 +42,3 @@ class Scraper
  scraped_student[:profile_quote] = doc.css("div.vitals-text-container div.profile-quote").text
  scraped_student
 end
-
-end
-  
